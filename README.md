@@ -1,2 +1,0 @@
-# piece
-Created with CodeSandbox
